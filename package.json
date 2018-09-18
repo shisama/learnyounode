@@ -62,7 +62,7 @@
     "bl": "^1.2.1",
     "boganipsum": "~0.1.0",
     "colors-tmpl": "^1.0.0",
-    "combined-stream": "^1.0.5",
+    "combined-stream": "^1.0.7",
     "concat-stream": "^1.5.1",
     "duplexer": "^0.1.1",
     "hyperquest": "^2.0.0",
